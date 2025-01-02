@@ -38,4 +38,4 @@ This project is the Mancala game implemented in Python. It allows two players to
 ## How to Run
 1. Clone the repository:  
    ```bash
-   python Mancala.pyc
+   python Mancala.py
