@@ -1,7 +1,7 @@
 # Mancala Game Simulator
 
 ## Description
-This project is a Mancala game simulator implemented in Python. It allows two players to compete in the classic Mancala board game, featuring custom game mechanics, visual board representation, and a turn-based gameplay system.
+This project is the Mancala game implemented in Python. It allows two players to compete in the classic Mancala board game, featuring visual board representation and a turn-based gameplay system.
 
 ## Features
 - **Interactive Gameplay**  
@@ -38,5 +38,4 @@ This project is a Mancala game simulator implemented in Python. It allows two pl
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   python Mancala.pyc
